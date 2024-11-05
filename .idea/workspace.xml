@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2c8437f-a9eb-4fdd-aabe-f5b5dd03d417" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Exception/UserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/PaymentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/Response/AuthResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/config/JwtConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/config/JwtProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/config/JwtValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/service/CustomUserServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ecommerce/src/main/java/com/myProject/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2lB03S3cwpD238ghUpmDvKk3gYb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Development/ecommerce/backend/ecommerce"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2c8437f-a9eb-4fdd-aabe-f5b5dd03d417" name="Changes" comment="" />
+      <created>1724637969938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724637969938</updated>
+    </task>
+    <servers />
+  </component>
+</project>
